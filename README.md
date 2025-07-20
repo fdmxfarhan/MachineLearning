@@ -25,7 +25,7 @@ Machine Learning Course Repo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/MachineLearning.git
+   git clone https://github.com/fdmxfarhan/MachineLearning.git
    ```
 2. Open notebooks in Jupyter or VS Code.
 3. Install required Python packages:
